@@ -1,0 +1,3 @@
+C:/Users/79312/Desktop/GitHub/C++_on_stepic__entry_level__/Section_2/cmake-build-debug/CMakeFiles/Section_2.dir
+C:/Users/79312/Desktop/GitHub/C++_on_stepic__entry_level__/Section_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/79312/Desktop/GitHub/C++_on_stepic__entry_level__/Section_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
