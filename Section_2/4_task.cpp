@@ -1,8 +1,6 @@
 #include <iostream>
 
 using namespace std;
-
-
 //Функция сдвига
 void rotate(int a[], unsigned size, int shift)
 {
