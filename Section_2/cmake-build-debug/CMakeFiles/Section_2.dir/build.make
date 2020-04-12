@@ -56,62 +56,32 @@ include CMakeFiles/Section_2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Section_2.dir/flags.make
 
-CMakeFiles/Section_2.dir/1_task.cpp.obj: CMakeFiles/Section_2.dir/flags.make
-CMakeFiles/Section_2.dir/1_task.cpp.obj: ../1_task.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Section_2.dir/1_task.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Section_2.dir\1_task.cpp.obj -c C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\1_task.cpp
+CMakeFiles/Section_2.dir/main.cpp.obj: CMakeFiles/Section_2.dir/flags.make
+CMakeFiles/Section_2.dir/main.cpp.obj: ../main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Section_2.dir/main.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Section_2.dir\main.cpp.obj -c C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\main.cpp
 
-CMakeFiles/Section_2.dir/1_task.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Section_2.dir/1_task.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\1_task.cpp > CMakeFiles\Section_2.dir\1_task.cpp.i
+CMakeFiles/Section_2.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Section_2.dir/main.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\main.cpp > CMakeFiles\Section_2.dir\main.cpp.i
 
-CMakeFiles/Section_2.dir/1_task.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Section_2.dir/1_task.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\1_task.cpp -o CMakeFiles\Section_2.dir\1_task.cpp.s
-
-CMakeFiles/Section_2.dir/2_task.cpp.obj: CMakeFiles/Section_2.dir/flags.make
-CMakeFiles/Section_2.dir/2_task.cpp.obj: ../2_task.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Section_2.dir/2_task.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Section_2.dir\2_task.cpp.obj -c C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\2_task.cpp
-
-CMakeFiles/Section_2.dir/2_task.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Section_2.dir/2_task.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\2_task.cpp > CMakeFiles\Section_2.dir\2_task.cpp.i
-
-CMakeFiles/Section_2.dir/2_task.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Section_2.dir/2_task.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\2_task.cpp -o CMakeFiles\Section_2.dir\2_task.cpp.s
-
-CMakeFiles/Section_2.dir/3_task.cpp.obj: CMakeFiles/Section_2.dir/flags.make
-CMakeFiles/Section_2.dir/3_task.cpp.obj: ../3_task.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Section_2.dir/3_task.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Section_2.dir\3_task.cpp.obj -c C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\3_task.cpp
-
-CMakeFiles/Section_2.dir/3_task.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Section_2.dir/3_task.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\3_task.cpp > CMakeFiles\Section_2.dir\3_task.cpp.i
-
-CMakeFiles/Section_2.dir/3_task.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Section_2.dir/3_task.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\3_task.cpp -o CMakeFiles\Section_2.dir\3_task.cpp.s
+CMakeFiles/Section_2.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Section_2.dir/main.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\main.cpp -o CMakeFiles\Section_2.dir\main.cpp.s
 
 # Object files for target Section_2
 Section_2_OBJECTS = \
-"CMakeFiles/Section_2.dir/1_task.cpp.obj" \
-"CMakeFiles/Section_2.dir/2_task.cpp.obj" \
-"CMakeFiles/Section_2.dir/3_task.cpp.obj"
+"CMakeFiles/Section_2.dir/main.cpp.obj"
 
 # External object files for target Section_2
 Section_2_EXTERNAL_OBJECTS =
 
-Section_2.exe: CMakeFiles/Section_2.dir/1_task.cpp.obj
-Section_2.exe: CMakeFiles/Section_2.dir/2_task.cpp.obj
-Section_2.exe: CMakeFiles/Section_2.dir/3_task.cpp.obj
+Section_2.exe: CMakeFiles/Section_2.dir/main.cpp.obj
 Section_2.exe: CMakeFiles/Section_2.dir/build.make
 Section_2.exe: CMakeFiles/Section_2.dir/linklibs.rsp
 Section_2.exe: CMakeFiles/Section_2.dir/objects1.rsp
 Section_2.exe: CMakeFiles/Section_2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Section_2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\79312\Desktop\GitHub\C++_on_stepic__entry_level__\Section_2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Section_2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Section_2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

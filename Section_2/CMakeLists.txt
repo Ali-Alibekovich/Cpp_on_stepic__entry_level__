@@ -3,4 +3,4 @@ project(Section_2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Section_2 1_task.cpp 2_task.cpp 3_task.cpp)
+add_executable(Section_2 main.cpp)

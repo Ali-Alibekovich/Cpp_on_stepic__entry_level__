@@ -80,13 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/79312/Desktop/GitHub/C++_on_stepic__entry_level__/Section_2/1_task.cpp">
-			<Option target="Section_2"/>
-		</Unit>
-		<Unit filename="C:/Users/79312/Desktop/GitHub/C++_on_stepic__entry_level__/Section_2/2_task.cpp">
-			<Option target="Section_2"/>
-		</Unit>
-		<Unit filename="C:/Users/79312/Desktop/GitHub/C++_on_stepic__entry_level__/Section_2/3_task.cpp">
+		<Unit filename="C:/Users/79312/Desktop/GitHub/C++_on_stepic__entry_level__/Section_2/main.cpp">
 			<Option target="Section_2"/>
 		</Unit>
 		<Unit filename="C:/Users/79312/Desktop/GitHub/C++_on_stepic__entry_level__/Section_2/CMakeLists.txt">

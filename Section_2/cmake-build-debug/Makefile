@@ -122,86 +122,32 @@ Section_2/fast:
 	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/build
 .PHONY : Section_2/fast
 
-1_task.obj: 1_task.cpp.obj
+main.obj: main.cpp.obj
 
-.PHONY : 1_task.obj
-
-# target to build an object file
-1_task.cpp.obj:
-	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/1_task.cpp.obj
-.PHONY : 1_task.cpp.obj
-
-1_task.i: 1_task.cpp.i
-
-.PHONY : 1_task.i
-
-# target to preprocess a source file
-1_task.cpp.i:
-	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/1_task.cpp.i
-.PHONY : 1_task.cpp.i
-
-1_task.s: 1_task.cpp.s
-
-.PHONY : 1_task.s
-
-# target to generate assembly for a file
-1_task.cpp.s:
-	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/1_task.cpp.s
-.PHONY : 1_task.cpp.s
-
-2_task.obj: 2_task.cpp.obj
-
-.PHONY : 2_task.obj
+.PHONY : main.obj
 
 # target to build an object file
-2_task.cpp.obj:
-	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/2_task.cpp.obj
-.PHONY : 2_task.cpp.obj
+main.cpp.obj:
+	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
-2_task.i: 2_task.cpp.i
+main.i: main.cpp.i
 
-.PHONY : 2_task.i
-
-# target to preprocess a source file
-2_task.cpp.i:
-	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/2_task.cpp.i
-.PHONY : 2_task.cpp.i
-
-2_task.s: 2_task.cpp.s
-
-.PHONY : 2_task.s
-
-# target to generate assembly for a file
-2_task.cpp.s:
-	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/2_task.cpp.s
-.PHONY : 2_task.cpp.s
-
-3_task.obj: 3_task.cpp.obj
-
-.PHONY : 3_task.obj
-
-# target to build an object file
-3_task.cpp.obj:
-	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/3_task.cpp.obj
-.PHONY : 3_task.cpp.obj
-
-3_task.i: 3_task.cpp.i
-
-.PHONY : 3_task.i
+.PHONY : main.i
 
 # target to preprocess a source file
-3_task.cpp.i:
-	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/3_task.cpp.i
-.PHONY : 3_task.cpp.i
+main.cpp.i:
+	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-3_task.s: 3_task.cpp.s
+main.s: main.cpp.s
 
-.PHONY : 3_task.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-3_task.cpp.s:
-	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/3_task.cpp.s
-.PHONY : 3_task.cpp.s
+main.cpp.s:
+	$(MAKE) -f CMakeFiles\Section_2.dir\build.make CMakeFiles/Section_2.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -212,15 +158,9 @@ help:
 	@echo ... Section_2
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... 1_task.obj
-	@echo ... 1_task.i
-	@echo ... 1_task.s
-	@echo ... 2_task.obj
-	@echo ... 2_task.i
-	@echo ... 2_task.s
-	@echo ... 3_task.obj
-	@echo ... 3_task.i
-	@echo ... 3_task.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 .PHONY : help
 
 
