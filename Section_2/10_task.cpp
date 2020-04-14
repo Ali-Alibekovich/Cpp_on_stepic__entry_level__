@@ -56,10 +56,10 @@ void swap_min(int *m[], unsigned rows, unsigned cols){
 //}
 //
 //int main(){
-//    int a,b;
-//    cin >> a >> b;
-//    int **m = create_array2d_effective(a, b);
-//    read_array2d(m, a, b);
-//    swap_min(m, a, b);
-//    print_array2d(m,a,b);
-//}
+////    int a,b;
+////    cin >> a >> b;
+////    int **m = create_array2d_effective(a, b);
+////    read_array2d(m, a, b);
+////    swap_min(m, a, b);
+////    print_array2d(m,a,b);
+////}
