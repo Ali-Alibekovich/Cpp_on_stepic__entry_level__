@@ -41,4 +41,4 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 file(WRITE "C:/Users/79312/Desktop/GitHub/C++_on_stepic__entry_level__/Section_3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
-     "${CMAKE_INSTALL_MANIFEST_CONTENT}")
+     "${CMAKE_INSTALL_MANIFEST_CONTENT}") 
